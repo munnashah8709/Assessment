@@ -72,6 +72,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 <!-- 
+(technology Used)
+ 1.React.js
+ 2.Node.js
+ 3.MongoDb
+ 4.Bootstrap
+ 5.Git
+
+(FrontEnd)
 1. on the first page i am tacking the user name and saving the user name to the data base
    also after getting the response from the database i am storing the user is on the localstorage 
 
@@ -83,5 +91,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 3. on the third form i am listing all the comment of that particulat user who have enter his name on the first page only his comment is displayed 
 
 4. Due to time sortage i am not explaing soo deep (hope will get a change to explain on the further process )
+
+(Backend)
+1. I have created 3 post api 
+    a. to store the user name from the first page 
+    b. to store the post 
+    c. to store the comments 
+
+2. I have created 2 get api 
+   a. to get all the post 
+   b. to get all the comment of the username
+
+
 
 -->
